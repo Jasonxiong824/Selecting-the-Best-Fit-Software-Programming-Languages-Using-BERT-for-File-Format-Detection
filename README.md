@@ -25,7 +25,7 @@ Xiong, J., Jiang, C., Zhao, Z., Qiao, Y., Zhang, N., Feng, M., & Wang, X. (2024)
 ## Authors
 1. @ [Jize Xiong](https://github.com/Jasonxiong824)   <br>
 2. 
-3. 
+3. @ [Zhiming Zhao](https://github.com/zhiming817)  <br>
 4. 
 5. 
 6. 
