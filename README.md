@@ -27,7 +27,7 @@ Xiong, J., Jiang, C., Zhao, Z., Qiao, Y., Zhang, N., Feng, M., & Wang, X. (2024)
 2. @ [Chufeng Jiang](https://github.com/Chufeng-Jiang) <br>
 3. @ [Zhiming Zhao](https://github.com/zhiming817)  <br>
 4. @ [Yuxin Qiao](https://github.com/Yuxin-Qiao)  <br>
-5. 
-6. 
-7.
+5. @ [Ning Zhang](https://github.com/zning1994)  <br>
+6. @ [Mingyang Feng](https://github.com/1366560t)  <br>
+7. @ [Xiaosong Wang](https://github.com/XiaosongWangcode)   <br>
 
